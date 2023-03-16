@@ -4,3 +4,5 @@ def add(a,b)
 
 def mul(a,b):
     pass
+def div(a,b):
+pass
